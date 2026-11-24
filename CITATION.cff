@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Si utilizas este proyecto o su documentación como referencia, por favor cítalo de la siguiente manera."
+title: "Creación de un orientador solar a pequeña escala en base a las ecuaciones solares y el uso de LDRs"
+authors:
+  - family-names: "Sáinz Vidal"
+    given-names: "Jorge"
+  - family-names: "Cuervo Prieto"
+    given-names: "Alberto"
+year: 2023
+institution:
+  name: "IES Félix Rodríguez de la Fuente / Universidad de Burgos (Bachillerato de Investigación y Excelencia)"
+license: GPL-3.0
+repository-code: "https://github.com/cl4sic/Orientador-solar-doble-eje"
+keywords:
+  - solar-tracker
+  - dual-axis
+  - arduino
+  - ldr
+  - solar-equations
+  - 3d-printing
