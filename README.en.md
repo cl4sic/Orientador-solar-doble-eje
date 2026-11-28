@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/branding/banner.png" alt="Dual-Axis Solar Tracker - Banner" width="100%" />
+
 
 <br />
 
