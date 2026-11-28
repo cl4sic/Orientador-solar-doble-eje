@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="assets/branding/banner.png" alt="Orientador Solar de Doble Eje - Banner" width="100%" />
 
 <br />
 
